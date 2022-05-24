@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+ngrok.exe
+
+bomzh-rpg.code-workspace
+
+app_token.py
